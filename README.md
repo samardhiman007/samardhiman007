@@ -48,7 +48,7 @@
 
 <img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam0110&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samardhiman007&show_icons=true)
 
 <br><br>
 
@@ -78,13 +78,3 @@
    <img align="left" alt="Samar Dhiman | Quora" width="24px" src="https://user-images.githubusercontent.com/51883689/121771577-c45a1f80-cb8d-11eb-91d2-32e43ba43729.png" />
 </a>  
 </p>
-
-
-
-
-
-
-
-
-
-<hr>
