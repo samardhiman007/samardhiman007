@@ -34,12 +34,6 @@
 
 -->
 
-
-
-<h3>🛠 To Learn</h3>
-
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
-
 <hr>
 
 
@@ -84,13 +78,6 @@
    <img align="left" alt="Samar Dhiman | Quora" width="24px" src="https://user-images.githubusercontent.com/51883689/121771577-c45a1f80-cb8d-11eb-91d2-32e43ba43729.png" />
 </a>  
 </p>
-
-
-
-
-
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=shivam0110.shivam0110)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
-
 
 
 
