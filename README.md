@@ -38,26 +38,6 @@ Data Structures & Algorithms • System Design • OOPs
 
 ---
 
-## 🚀 Experience
-
-### 💼 Software Engineer | STATRYS
-
-* Built Kafka consumers for inbound payment processing
-* Worked on memory/performance analysis using GC logs & VisualVM
-
-### 💼 Software Engineer | Vecmocon Technologies
-
-* Developed end-to-end FOTA system for IoT devices
-* Built user & organization management modules
-* Improved APIs with pagination and advanced filtering
-
-### 💼 Associate Engineer | Nagarro
-
-* Developed REST APIs using Spring Boot
-* Implemented CRUD, pagination, filtering, and authentication systems
-
----
-
 ## 🏆 Achievements
 
 * ⭐ 4 Star on CodeChef
