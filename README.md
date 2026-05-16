@@ -1,80 +1,92 @@
-### Hi there 👋<h2> I'm Samar</h2>
+# Hi there 👋 I'm Samar Dhiman
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<h3> 👨🏻•💻 About Me </h3>
+## 👨🏻‍💻 About Me
 
+* 💻 Software Engineer with experience in **Java, Spring Boot, Microservices, Kafka, Redis, ElasticSearch, and PostgreSQL**
+* 🚀 Currently working at **STATRYS** on payment systems and Kafka-based architectures
+* ⚡ Built scalable backend systems, IoT device management platforms, and REST APIs
+* 🔍 Interested in **Distributed Systems, System Design, Performance Optimization, and Cloud Technologies**
+* 🧠 Solved **1000+ DSA problems** across coding platforms
+* 🌱 Currently exploring **Kubernetes, AWS, and scalable microservice architectures**
+* ✍️ I also enjoy blogging and sharing tech learnings
 
+---
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+## 🛠 Tech Stack
 
-- 🎓 &nbsp; Studying Computer Science and Engineering at J.C. Bose University of Science and Technology, YMCA.
+### 💻 Languages
 
-- 🌱 &nbsp; Learning about Machine Learning, Deep Learning.
+Java • C++ • C • Python • SQL
 
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+### ⚙️ Backend & Frameworks
 
+Spring Boot • Hibernate • REST APIs • Microservices
 
+### 🗄 Databases & Messaging
 
-<h3>🛠 Tech Stack</h3>
+PostgreSQL • MySQL • Redis • Kafka • RabbitMQ
 
+### ☁️ DevOps & Cloud
 
+Docker • Kubernetes • AWS • Jenkins • Git
 
-- 💻 &nbsp; Python | Java | C++ | C | MySQL
+### 📚 CS Fundamentals
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap
+Data Structures & Algorithms • System Design • OOPs
 
-<!--
+---
 
-- 🛢 &nbsp; MySQL | MongoDB
+## 🚀 Experience
 
-- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
+### 💼 Software Engineer | STATRYS
 
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign
+* Built Kafka consumers for inbound payment processing
+* Worked on memory/performance analysis using GC logs & VisualVM
 
--->
+### 💼 Software Engineer | Vecmocon Technologies
 
-<hr>
+* Developed end-to-end FOTA system for IoT devices
+* Built user & organization management modules
+* Improved APIs with pagination and advanced filtering
 
+### 💼 Associate Engineer | Nagarro
 
+* Developed REST APIs using Spring Boot
+* Implemented CRUD, pagination, filtering, and authentication systems
 
-<br/><br/>
+---
 
-[![Samar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samardhiman007&show_icons=true)](https://github.com/shivam0110)
+## 🏆 Achievements
 
-<br/>
+* ⭐ 4 Star on CodeChef
+* ⭐ 5 Star in Problem Solving & C++ on HackerRank
+* 🏅 Ranked among Top 100s globally on CodeChef
+* 💯 Solved 1000+ coding problems
 
-<br/>
+---
 
-<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
+## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samardhiman007&show_icons=true)
+![Samar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samardhiman007\&show_icons=true\&theme=tokyonight)
 
-<br><br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samardhiman007\&layout=compact\&theme=tokyonight)
 
+---
 
+## 🤝 Connect With Me
 
-<hr>
-
-
-
-<h3> 🤝🏻 Connect with Me </h3>
-
-<br>
-
-
-
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/samar-dhiman-4268851b1/">
-   <img align="left" alt="Samar Dhiman | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
+  <img alt="LinkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
 </a>
+&nbsp;&nbsp;
 <a href="https://instagram.com/samar__dhiman">
-   <img align="left" alt="Samar Dhiman | Instagram" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Instagram.svg" />
+  <img alt="Instagram" width="30px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"/>
 </a>
+&nbsp;&nbsp;
 <a href="https://samardhiman007.medium.com/">
-   <img align="left" alt="Samar Dhiman | Medium" width="24px" src="https://user-images.githubusercontent.com/51883689/121771250-e5217580-cb8b-11eb-85a3-2be6d4b0db58.png" />
-</a>  
-<a href="https://www.quora.com/profile/Samar-Dhiman-3">
-   <img align="left" alt="Samar Dhiman | Quora" width="24px" src="https://user-images.githubusercontent.com/51883689/121771577-c45a1f80-cb8d-11eb-91d2-32e43ba43729.png" />
-</a>  
+  <img alt="Medium" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png"/>
+</a>
 </p>
